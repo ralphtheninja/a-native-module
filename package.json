@@ -1,6 +1,6 @@
 {
   "name": "a-native-module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a native module (for testing)",
   "dependencies": {},
   "devDependencies": {},
