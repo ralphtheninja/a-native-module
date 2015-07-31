@@ -1,0 +1,17 @@
+{
+  "name": "a-native-module",
+  "version": "0.0.0",
+  "description": "a native module (for testing)",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralphtheninja/a-native-module.git"
+  },
+  "author": "LM (@ralphtheninja)",
+  "bugs": {
+    "url": "https://github.com/ralphtheninja/a-native-module/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ralphtheninja/a-native-module"
+}
